@@ -15,15 +15,7 @@ Este perfil da organização no GitHub representa a **unidade de TI e Dados**, r
 
 ---
 
-##  Projetos Principais
 
-- **`etl-ligacoes`**: Pipeline para processar dados de ligações e interações internas.  
-- **`bi-dashboard`**: Dashboards e relatórios de indicadores de negócios.  
-- **`infra-ti`**: Scripts de automação e ferramentas de suporte à infraestrutura de TI.  
-- **`docs`**: Documentação de arquitetura, métricas e boas práticas de dados.
-
-
----
 
 ## 📣 Contatos do Time de Dados
 
